@@ -9,3 +9,5 @@ The following knowledge is required to complete the project:
  ④ Native js + jquery use
  ⑤ rem adaptation
  ⑥ echarts Foundation
+
+![image](https://user-images.githubusercontent.com/108039315/229013851-9dbc9ddf-6742-4c28-a8fe-b5fa67b61bb7.png)
